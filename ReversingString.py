@@ -3,6 +3,10 @@
 Created on Sat Jan 29 12:43:39 2022
 
 @author: Gururaja Hegde V'
+
+first function gives the output using traditional for loop to reverse the string.
+second function give the output using the extended slicing from lists
+third function gives the output using the 2 built in functions join and reversed.
 """
 
 def rev1(s):
